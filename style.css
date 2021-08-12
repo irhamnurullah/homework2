@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo&display=swap");
+#Home {
+   height: 2041px;
+   width: 1152px;
+   left: -942px;
+   top: -1377px;
+}
+
+.headline {
+   position: absolute;
+   width: 506px;
+   height: 105px;
+   left: 148px;
+   top: 228px;
+
+   font-family: Heebo;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 44px;
+   line-height: 60px;
+}
+
+p {
+   position: absolute;
+   width: 497px;
+   height: 66px;
+   left: 148px;
+   top: 373px;
+
+   font-family: Heebo;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 23px;
+}
+
+img {
+   position: absolute;
+   width: 243px;
+   height: 243px;
+   left: 760px;
+   top: 210px;
+   object-fit: cover;
+   border-radius: 50%;
+}
+
+.rectangle {
+   position: absolute;
+   width: 1152px;
+   height: 396px;
+   left: 0px;
+   top: 595px;
+   background: #edf7fa;
+}
